@@ -7,7 +7,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación  
 **Prerrequisitos**: Ninguno  
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)  
-**📂 Repositorio de código fuente**: [https://github.com/yourusername/webdev-courseteamname](https://github.com/AplicacionesWeb-Grupo2/TRS)
+**📂 Repositorio de código fuente**: [https://github.com/AplicacionesWeb-Grupo2/TRS](https://github.com/AplicacionesWeb-Grupo2/TRS)
 
 ## Secuencia de la lección
 
